@@ -11,3 +11,8 @@ This is a console application that creates a simple class person
 This class person will have the fields {firstname, lastname, email} 
 This information will be stored into the database and retrieved. 
 
+#Running enviroment
+Compiling new classes
+1. Create construct as a tsc.
+2. Run "tsc" in terminal
+3. You can now debug the file 

@@ -6,4 +6,5 @@ console.log(message);
 let Human = new person_1.Person("John", "Smith", "JohnSmith@gmail.com");
 Human.PrintName();
 Human.PrintEmail();
+Human.PrintName();
 //# sourceMappingURL=helloworld.js.map

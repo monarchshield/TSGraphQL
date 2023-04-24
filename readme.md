@@ -5,6 +5,9 @@ and to learn GraphQl alongside it as an intermediary database
 # Requirements
 - Typescript 4.0 or higher: [link](https://www.typescriptlang.org/)
 - GraphQL installation: [link](https://graphql.org/code/)
+- Node.js installation LTS: 18.16.10: [link](https://nodejs.org/en/download)
+- Or Alternatively Node.JS & NPM: [link](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
+
 
 # Point and Purpose 
 This is a console application that creates a simple class person

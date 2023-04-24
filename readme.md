@@ -18,4 +18,5 @@ This information will be stored into the database and retrieved.
 Compiling new classes
 1. Create construct as a tsc.
 2. Run "tsc" in terminal
-3. You can now debug the file 
+3. You can now run/debug files 
+4. Execute main.ts  

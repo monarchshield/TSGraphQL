@@ -5,7 +5,7 @@ const employee_1 = require("./employee");
 //Creating a variable type
 let message = "Hello World";
 console.log(message);
-//Casting example (bad example)
+//Convert type to another type
 let cast = 5;
 let stringnum = cast.toString();
 //Person class
@@ -18,4 +18,4 @@ Human.PrintEmail();
 //Experiment with inheritence
 Human2.PrintJob();
 Human2.PrintEmail();
-//# sourceMappingURL=helloworld.js.map
+//# sourceMappingURL=main.js.map

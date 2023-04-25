@@ -7,7 +7,7 @@ and to learn GraphQl alongside it as an intermediary database
 - GraphQL installation: [link](https://graphql.org/code/)
 - Node.js installation LTS: 18.16.10: [link](https://nodejs.org/en/download)
 - Or Alternatively Node.JS & NPM: [link](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
-
+- Additional dependencies. Refer Step 2: [Link](https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/)
 
 # Point and Purpose 
 This is a console application that creates a simple class person

@@ -1,0 +1,7 @@
+# Compiled directory
+out
+*out
+
+# Modules 
+node_modules
+

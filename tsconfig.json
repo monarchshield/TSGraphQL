@@ -4,5 +4,9 @@
         "module": "CommonJS",
         "outDir": "out",
         "sourceMap": true,
-    }
+        "strict": true,
+        "jsx": "preserve",
+        "esModuleInterop": true,
+    },
+    "exclude": ["node_modules"]
 }

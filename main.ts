@@ -1,5 +1,9 @@
 import { Person } from "./person";
 import { Employee } from './employee';
+import { buildSchema } from "graphql";
+import express from "express";
+import { graphqlHTTP } from "express-graphql";
+
 
 
 //Creating a variable type
